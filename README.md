@@ -1,2 +1,1 @@
-# TinDog
-Walk through project
+TinDog Starting Files
